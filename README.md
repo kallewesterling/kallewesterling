@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 **I am a dedicated and results-oriented professional with academic preparation seeking to transition to a career in the private sector or in a digital scholarship lab, preferably with focus on humanities-oriented projects. In my latest position, I was responsible for [building nation-wide infrastructure and community for digital humanities across several higher education institutions across the U.S.](https://www.dhinstitutes.org) My conference participation has been centered around topics such as the Digital Humanities, the Public Humanities, and on how to leverage digital technology for effective pedagogy.**
 
@@ -16,3 +16,7 @@ I have written on topics ranging from [queer indie wrestlers](https://dx.doi.org
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=kallewesterling&show_icons=true&theme=dracula" alt="kallewesterling's github stats"></p>
