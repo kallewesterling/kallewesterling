@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20Me%20on%20Twitter&style=social)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20Twitter&style=social)](https://www.twitter.com/kallewesterling)
 
 I am a performance scholar and historian by training. My doctoral research analyzes itinerant drag performers around New York and along the Eastern Seaboard in the 1930s as part of a collective art form that brought queerness with them to towns and cities around the area. My dissertation project was awarded a Connect New York grant for its innovative use of digital methods in Theatre and Performance.
 
