@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20Me%20on%20Twitter&style=social)
+
 I am a performance scholar and historian by training. My doctoral research analyzes itinerant drag performers around New York and along the Eastern Seaboard in the 1930s as part of a collective art form that brought queerness with them to towns and cities around the area. My dissertation project was awarded a Connect New York grant for its innovative use of digital methods in Theatre and Performance.
 
 In my latest position, I was responsible for [building nation-wide infrastructure and community for digital humanities across several higher education institutions across the U.S.](https://www.dhinstitutes.org) My conference participation has been centered around topics such as the Digital Humanities, the Public Humanities, and on how to leverage digital technology for effective pedagogy.
