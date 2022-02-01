@@ -2,7 +2,7 @@
 
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20Twitter&style=social)](https://www.twitter.com/kallewesterling)
 
-Currently I am a Digital Humanities Research Software Engineer at the British Library and The Alan Turing Institute on the Living with Machines research project, which combines large-scale digitized historical collections with data science and computational methods.
+Currently I am a Digital Humanities Research Software Engineer at the British Library and The Alan Turing Institute on [the Living with Machines research project](https://livingwithmachines.ac.uk), which combines large-scale digitized historical collections with data science and computational methods.
 
 I am a performance scholar and historian by training, holding a Ph.D. in Theatre and Performance from The Graduate Center, CUNY. My dissertation project analyzed itinerant drag performers around New York and along the Eastern Seaboard in the 1930s as part of a collective art form that brought queerness with them to towns and cities around the area. It was awarded a Connect New York grant for its innovative use of digital methods in Theatre and Performance.
 
