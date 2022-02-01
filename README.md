@@ -13,7 +13,7 @@ I have written on topics ranging from [queer indie wrestlers](https://dx.doi.org
 <!--
 - 🌱 &nbsp;&nbsp;I’m currently [learning what it means to be a Research Software Engineer](https://alan-turing-institute.github.io/rse-course/html/index.html)
 -->
-- 📫 &nbsp;&nbsp;Reach me via [email](kalle.westerling@gmail.com) or [Twitter](https://www.twitter.com/kallewesterling)
+- 📫 &nbsp;&nbsp;Reach me via [email](mailto:kalle.westerling@gmail.com) or [Twitter](https://www.twitter.com/kallewesterling)
 - 😄 &nbsp;&nbsp;Pronouns: he/him or they/them
 <!--
 - 👯  I’m looking to collaborate on ...
