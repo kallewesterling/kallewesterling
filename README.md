@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20Twitter&style=social)](https://www.twitter.com/kallewesterling)
+<a href="https://mastodon.online/@kallewesterling" rel="me"><img src="https://img.shields.io/mastodon/follow/109246728246742706?domain=https%3A%2F%2Fmastodon.online&label=Follow%20me%20on%20Mastodon&style=social" alt="Follow me on Mastodon" /></a>  
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20Twitter&style=social)](https://www.twitter.com/kallewesterling)  
+
+<img alt="Profile Views" src="https://gpvc.arturio.dev/kallewesterling">
 
 Currently I am a Research Software Engineer at the British Library and The Alan Turing Institute on [the Living with Machines research project](https://github.com/living-with-machines), which combines large-scale digitized historical collections with data science and computational methods.
 
