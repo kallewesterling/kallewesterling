@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 <a href="https://mastodon.online/@kallewesterling" rel="me"><img src="https://img.shields.io/mastodon/follow/109246728246742706?domain=https%3A%2F%2Fmastodon.online&label=Follow%20me%20on%20Mastodon&style=social" alt="Follow me on Mastodon" /></a>  
-[![Follow me on X](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20Twitter&style=social)](https://www.twitter.com/kallewesterling)  
+[![Follow me on X](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20X&style=social)](https://www.twitter.com/kallewesterling)  
 
 Currently I am Research Application Manager at the Alan Turing Institute, where my work revolves around the democratisation of access to digital twin technology. I will help in providing open and reproducible computational and social tools that are freely accessible to the UK research and innovation communities. As a Research Application Manager, my role prioritises the user perspective in the development of research software by researchers and engineers and helps stakeholders understand the outputs from their research in a larger perspective. 
 
