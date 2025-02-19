@@ -3,15 +3,37 @@
 <a href="https://mastodon.online/@kallewesterling" rel="me"><img src="https://img.shields.io/mastodon/follow/109246728246742706?domain=https%3A%2F%2Fmastodon.online&label=Follow%20me%20on%20Mastodon&style=social" alt="Follow me on Mastodon" /></a>  
 [![Follow me on X](https://img.shields.io/twitter/follow/kallewesterling?label=Follow%20me%20on%20X&style=social)](https://www.twitter.com/kallewesterling)  
 
-I am Research Application Manager at the Alan Turing Institute, where my work revolves around the democratisation of access to digital twin technology. I will help in providing open and reproducible computational and social tools that are freely accessible to the UK research and innovation communities. As a Research Application Manager, my role prioritises the user perspective in the development of research software by researchers and engineers and helps stakeholders understand the outputs from their research in a larger perspective. 
+I’m **Kalle Westerling**, a **Product Manager at Chainguard**, where I lead **Chainguard Courses**—building engaging and effective training programs to support certification, product proficiency, and professional development. My focus is on making technical concepts accessible and practical for users, ensuring they get the most out of our products.  
 
-I am currently seconded to [The Alan Turing Institute's Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities) project, where he is focusing on building sustainable communities around Arts and Humanities datasets and tools. My work there addresses particular challenges in research software development, ensuring that tools and data reach and engage audiences beyond the original project team. By fostering collaboration and accessibility, I aim to create lasting impact and wider adoption of these resources within the broader research community.
+Previously, I worked at **The Alan Turing Institute**, the UK’s national institute for AI and data science. I started as a Research Software Engineer and later transitioned into a Product/Delivery Manager role, working on projects spanning **digital twinning, computer vision, and research software development**. My work emphasized user needs, accessibility, and reproducibility—helping researchers and developers create open, sustainable tools that drive impact.  
 
-I am a performance scholar and historian by training, holding a Ph.D. in Theatre and Performance from The Graduate Center, CUNY. My Digital Humanities dissertation project analyzed networks of itinerant drag performers around New York and along the Eastern Seaboard in the 1930s as part of a collective art form that brought queerness with them to towns and cities around the area. It was awarded a Connect New York grant for its innovative use of digital methods in Theatre and Performance.
+My background is rooted in **research and digital humanities**, particularly applying computational methods to historical and cultural data. I hold a Ph.D. in Theatre and Performance from The Graduate Center, CUNY, where [my dissertation](https://academicworks.cuny.edu/gc_etds/4959/) analyzed networks of itinerant drag performers in 1930s America through digital humanities methodologies.  
 
-In my previous position, I was a Research Software Engineer at the British Library and The Alan Turing Institute on [the Living with Machines research project](https://github.com/living-with-machines), which combines large-scale digitized historical collections with data science and computational methods. Before that, I was responsible for [building nation-wide infrastructure and community for digital humanities across several higher education institutions across the U.S.](https://www.dhinstitutes.org) My conference participation has been centered around topics such as the Digital Humanities, the Public Humanities, and on how to leverage digital technology for effective pedagogy.
+## Past Work  
 
-I have written on topics ranging from [queer indie wrestlers](https://dx.doi.org/10.4324/9780367810016-13), boylesque and male-identified strippers in neo-burlesque, and the [influence of RuPaul’s Drag Race on the livelihood and aesthetics of contemporary New York City drag queens](https://dx.doi.org/10.5040/9781350082977.ch-003). You can also find me on the Steering Committee of [HASTAC, the Humanities, Arts, Science, and Technology Alliance and Collaboratory](https://www.hastac.org).
+Before Chainguard, I worked on:  
+
+- **[Living with Machines](https://github.com/living-with-machines)** – a large-scale research project combining historical archives with computational methods to study the impact of industrialization. I contributed to software development, data visualization, and public engagement efforts.  
+- **[Data/Culture at The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities)** – helping build sustainable communities around arts and humanities datasets and tools, ensuring research software reaches broader audiences.  
+- **[Nation-wide Digital Humanities infrastructure](https://www.dhinstitutes.org)** – working to develop digital humanities initiatives across multiple U.S. institutions, strengthening research communities and digital pedagogy.  
+
+I’ve also written on **queer performance, digital humanities, and public humanities**, covering topics from [queer indie wrestlers](https://dx.doi.org/10.4324/9780367810016-13) and boylesque to the [**influence of RuPaul’s Drag Race on contemporary NYC drag**](https://dx.doi.org/10.5040/9781350082977.ch-003).  
+
+## Outside of Work  
+
+When I’m not designing learning experiences, you’ll probably find me:  
+- **Traveling** 🌍 – I’ve lived in Sweden, the U.S., Brazil, and the UK, and I love exploring new places.  
+- **Practicing yoga** 🧘 – I recently became a certified yoga teacher after training in the Peruvian jungle.  
+- **Cooking & enjoying great food** 🍽️ – I love experimenting in the kitchen and discovering amazing meals wherever I go.  
+
+## Get in Touch  
+
+Let’s connect! Feel free to reach out via:  
+📫 [**Email**](mailto:kalle.westerling@gmail.com)
+💬 **Mastodon**: [@kallewesterling@mastodon.online](https://mastodon.online/@kallewesterling)  
+🐦 **X/Twitter**: [@kallewesterling](https://www.twitter.com/kallewesterling)  
+
+
 
 <!--
 - 🌱 &nbsp;&nbsp;I’m currently [learning what it means to be a Research Software Engineer](https://alan-turing-institute.github.io/rse-course/html/index.html)
